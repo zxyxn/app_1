@@ -1,0 +1,60 @@
+{
+    "encabezado" : {
+        "title": "Las perores pandemias del Mundo",
+        "description": "A estas alturas el ébola ya se ha convertido en un trending-topic global, además de en una crisis. Por suerte ya se están poniendo las medidas oportunas para evitar una posible pandemia extendida por todo el mundo. Porque no es la primera vez que ocurre, ni mucho menos. Hoy aprovecharemos para dar un repaso a las diez peores pandemias de la historia. En primer lugar ¿qué es una pandemia? Una pandemia no es otra cosa que una epidemia a una escala mayor, mucho más extendida. Y una epidemia no es otra cosa que una enfermedad que alcanza un nivel de incidencia mayor que el normalmente esperado. Por lo tanto, una enfermedad que se extiende más de lo esperado y de una forma mucho más extensa de lo que se preveía es considerada una pandemia. Y por desgracia las pandemias suelen asociar una gran cantidad de muertes debido a la falta de preparación que el propio término sugiere. Por suerte, os diremos que no, el ébola no es una pandemia. Y es bastante difícil que a estas alturas lo sea, aunque nunca se sabe, como bien indicaba recientemente el Dr. Manuel Patarroyo, uno de los investigadores detrás de la vacuna contra la malaria."
+    },
+    "pandemias": {
+        "pandemia_1" : {
+            "title" : "La Viruela",
+            "description" : "La viruela es una enfermedad infecciosa mucho más grave de lo que la gente aprecia. Está causada por Variola virus, de la familia Poxvirus, y no solo ha sido la pandemia que más muertos ha causado en la historia de la humanidad sino que además ha dejado a millones de personas desfiguradas a lo largo y ancho del mundo. Básicamente, como muchos sabréis, la viruela provoca la salida de numerosas pústulas que dejarán una marca indeleble en la piel con casi total seguridad. Esta pandemia se conoce desde mucho tiempo atrás, y se cree que apareció en el 10.000 adC. Llegó a ser tan mortal que tan solo el 30% de los afectados conseguía sobrevivir, muriendo por las altas fiebres, deshidratación y complicaciones derivadas. Especialmente terrible fue el siglo XVIII, donde la viruela literalmente conseguía diezmar a las poblaciones afectadas. Pero además de su letalidad, la viruela ha sido también una protagonista en la historia ya que la primera vacuna, diseñada por E. Jenner en 1796 fue precisamente para tratar la viruela. La enfermedad, según se calcula, ha matado a más de 300 millones de personas a lo largo de su historia, pero, por suerte actualmente se considera como una de las dos enfermedades, junto a la peste bovina, \"erradicadas\".",
+            "muertos": "Mas de 300 millones"
+        },
+        "pandemia_2": {
+            "title": "El Sarampión",
+            "description" : "Otro de los grandes conocidos de la historia. El sarampión como la rubéola o la varicela, es una enfermedad característica por sus marcas rojizas en la piel, altas fiebres y malestar grave. Además, es también el causante de la segunda mayor pandemia de la historia. La muerte en el sarampión suele deberse a la inflamación pulmonar o de las meninges, lo que deja secuelas graves en la mayoría de Actualmente casi todos estamos vacunados gracias a la \"triple vírica\"los supervivientes. Pero precisamente, para combatir esta enfermedad normalmente vacunamos a nuestros niños con la vacuna triple vírica, también denominada SPR. Debido a que el sarampión no tiene en sí una cura específica, al igual que ocurre con el ébola, lo único que podemos hacer es prevenir el contagio. La enfermedad se conoce desde hace más de 3000 años y su principal problema es la alta tasa de contagio. Hasta el momento y aunque hemos controlado eficazmente la enfermedad, ha matado a más de 200 millones de personas y todavía no la hemos erradicado a pesar de los esfuerzos de la OMS.",
+            "muertos": "Más de 200 millones"
+        },
+        "pandemia_3": {
+            "title": "La Gripe Española",
+            "description" : "Esta rimbombante pandemia fue una de las más graves de la historia moderna. Al contrario que en las dos pandemias anteriores, las cuales se entiende que causaron la muerte de cientos de millones de personas a lo largo de los siglos, la gripe española acabó con la vida de entre el 3% y el 6% de la población mundial, Acabó en dos años con casi el 6% de la población mundialsegún se estima, en solo un par de años. Es decir, entre 1918 y 1920 se calcula que murieron entre 50 y 100 millones de personas a lo largo del globo. Como sospecharéis, la Gripe Española estuvo muy relacionada con la primera guerra mundial, conflicto que no ayudó precisamente a mitigar los estragos de la enfermedad sino todo lo contrario. Pero, ¿por qué Gripe Española? El termino no se debe a que se dieran los primeros casos en España, como muchos pensarán, sino que este país fue el primero en informar a la población de su existencia y consecuencias, ya que otros países como Francia, donde podrían haberse dados los primeros casos, censuraban la información para evitar desmoralizar a la población.",
+            "muertos": "Entre 50 y 100 millones"
+        },
+        "pandemia_4": {
+            "title": "La Peste Negra",
+            "description" : "Una de las pandemias más conocidas, debido a su desagradable asociación histórica con la edad media y siglos posteriores, es la Peste. Esta enfermedad es causada por Yersinia pestis, que es una bacteria, no un virus y un agente todavía activo en poblaciones pequeñas y zonas rurales. Sus principales y vistosos síntomas son los bubones o ampollas enormes provocadas por la bacteria, muy desagradables. Yersinia pestis es transmitida mediante vectores tales como las pulgasLa peste necesita de las ratas como reservorio y las pulgas como vector, aunque en su momento se creía que eran los \"humores\" y fluidos vaporosos los transmisores. Pero el secreto se encontraba en las ratas, que plagaban las urbes medievales y que son el reservorio perfecto de esta cepa. La Peste Negra o Bubónica, fue la pandemia de peste más letal de la historia, aunque como podréis comprobar, necesito varias decenas de años para causar los estragos de la Gripe Española. Su renombre, esencialmente, viene de las implicaciones sociales e históricas. La Gripe Española fue una gota más en un mundo que se convulsionaba ante la guerra. Casi pasó desapercibida por ser una calamidad que añadir al día día. Pero la Peste Negra fue la provocación que necesitaba la sociedad para evolucionar en una época de cambio. Las implicaciones sociales e históricas son un hecho tan sumamente importante como los 75 millones de personas que sucumbieron durante la mitad del siglo XIV.",
+            "muertos": "75 millones"
+        },
+        "pandemia_5": {
+            "title": "VIH (SIDA)",
+            "description" : "O VIH, también conocido como Síndrome de Inmunodeficiencia Adquirida o SIDA. Este virus es la quinta pandemia mundial más importante, y también una importante parte de nuestra historia moderna. Es también un gran (y triste) protagonista dentro de nuestra cultura pop. Pero antes que todo eso, es una enfermedad provocada por un retrovirus, y también uno de los más estudiados en la actualidad. Fue descubierto por Luc Mantagnier en Francia y lo que provoca es, básicamente, que nuestro sistema inmunitario no funcione adecuadamente. Por tanto, no es el virus en sí el que provoca las Hoy día existen quienes niegan la existencia del VIH a pesar de lo bien que lo conocemosconsecuencias letales sino que destruye nuestra capacidad de defendernos antes otras enfermedades comunes y corrientes, de manera que la más mínima infección puede matarnos. El VIH ha matado en el mundo a más de 25 millones de personas y actualmente todavía sigue siendo un peligro. Por suerte solo puede transmitirse mediante contacto directo con mucosas o la sangre, por lo que su transmisión es más difícil de lo que parece. Además existen ciertos tratamientos y algunos descubrimientos muy prometedores para mejorar la calidad de vida o incluso tratar en cierta la infección, aunque actualmente no existe ninguna cura definitiva ni conocida. Otro detalle muy curioso es que el virus podría tener un origen artificial, de laboratorio. Otro aún más llamativo es que existe toda un movimiento, muy peligroso, de negacionistas del VIH que afirman que este virus no existe y es una invención de la industria farmacéutica.",
+            "muertos": "Más de 25 millones"
+        },
+        "pandemia_6": {
+            "title": "La Plaga de Justiniano",
+            "description" : "Esta pandemia, como su nombre indica, comenzó allá por el siglo VI, en el Imperio Bizantino. Aunque no se tiene la certeza absoluta, probablemente la peste fue causada por una cepa de Yersinia pestis, la misma bacteria causante de la Peste Bubónica o Negra. Las últimas investigaciones, de hecho, relacionan abiertamente ambos organismos, pudiendo ser incluso el mismo, de la misma línea genética. Hipótesis aparte, lo cierto es que esta pandemia se extendió por todo el imperio y más allá. Aunque es bastante difícil estimarlo, la Plaga de Justiniano probablemente matara casi a 25 millones de personas en el mediterráneo hasta que se mitigó por fin en el siglo VIII, y llegó a destruir hasta la cuarta parte de toda su población.",
+            "muertos": "Unos 25 millones"
+        },
+        "pandemia_7": {
+            "title": "",
+            "description" : "",
+            "muertos": ""
+        },
+        "pandemia_8": {
+            "title": "",
+            "description" : "",
+            "muertos": ""
+        },
+        "pandemia_9": {
+            "title": "",
+            "description" : "",
+            "muertos": ""
+        },
+        "pandemia_10": {
+            "title": "",
+            "description" : "",
+            "muertos": ""
+        }
+
+    }
+
+}
