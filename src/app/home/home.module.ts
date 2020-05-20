@@ -4,7 +4,7 @@ import { IonicModule } from '@ionic/angular';
 import { FormsModule } from '@angular/forms';
 import { HomePage } from './home.page';
 import { HomePageRoutingModule } from './home-routing.module';
-import { EnfermedadesSlidesComponent } from "../modules/components/enfermedades-slides/enfermedades-slides.component"
+import { ComponentsModule } from '../modules/components/components.module';
 
 @NgModule({
   imports: [
@@ -12,7 +12,7 @@ import { EnfermedadesSlidesComponent } from "../modules/components/enfermedades-
     FormsModule,
     IonicModule,
     HomePageRoutingModule,
-    EnfermedadesSlidesComponent
+    ComponentsModule
   ],
   declarations: [HomePage]
 })
