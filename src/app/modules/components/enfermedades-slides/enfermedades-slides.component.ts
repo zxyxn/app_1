@@ -17,12 +17,16 @@ export class EnfermedadesSlidesComponent implements OnInit {
     // Devuelve -> encabezado: arrreglo & enfermedades: arreglo de objetos
     // Puede ser utilizado en el HTML
     this.dataService.getInformacionEnfermedades().subscribe((value) => {
-      this.encabezado = Object.values(value)[0];
-      this.encabezado = Object.values(this.encabezado);
+      this.encabezado = value.encabezado;
+      this.enfermedades = Object.values(value.pandemias);
+     /* this.encabezado = Object.values(this.encabezado);
       console.log(this.encabezado);
       let result = Object.values(value)[1];
       this.enfermedades = Object.values(result);
       this.enfermedades = Object.values(this.enfermedades);
+      console.log(this.enfermedades);*/
+
+      console.log(this.encabezado);
       console.log(this.enfermedades);
     })
   }
