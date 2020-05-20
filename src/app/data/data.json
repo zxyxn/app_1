@@ -35,24 +35,24 @@
             "muertos": "Unos 25 millones"
         },
         "pandemia_7": {
-            "title": "",
-            "description" : "",
-            "muertos": ""
+            "title": "La Tercera Pandemia",
+            "description" : "Así se denomina comúnmente a la tercera pandemia de peste bubónica que comenzó en la provincia de Yunnan en China en el siglo XIX. Esta pandemia estuvo activa hasta 1959 y provocó en apenas una decena de años la muerte de más de 12 millones de personas. Como vemos, Yersinia pestis sigue siendo la gran protagonista de las pandemias, habiendo estado presente en numerosas ocasiones y a lo largo de todo el mundo. En esta ocasión le tocó el turno a Asia, donde Manchuria y Mongolia fueron las zonas más castigadas por la pandemia.",
+            "muertos": "12 millones"
         },
         "pandemia_8": {
-            "title": "",
-            "description" : "",
-            "muertos": ""
+            "title": "Tifus",
+            "description" : "El tifus, que no las fiebres tifoideas, son provocadas por el género Rickettsia y supone una de las pandemias actuales. Transmitidas por vectores como los insectos y otros artrópodos (todos los insectos son artrópodos, no todos los artrópodos son insectos) el tifus provoca fiebres altas, exantema y otra serie de desagradables consecuencias. Normalmente afecta a poblaciones rurales o muy aisladas debido a los vectores principales y a sus reservorios animales. Aunque el tifus ha matado a más de 4 millones de personas a lo largo de su historia, no supone un peligro demasiado presente en el mundo moderno.",
+            "muertos": "4 millones"
         },
         "pandemia_9": {
-            "title": "",
-            "description" : "",
-            "muertos": ""
+            "title": "El Cólera",
+            "description" : "Que no la cólera humana, que también es una enfermedad muy extendida, el cólera es una pandemia actual causada por Vibrio cholerae, una bacteria. Además de fiebres y dolor abdominal, el cólera suele matar a los afectados debido esencialmente a la deshidratación que en muchos casos es prácticamente imposible de parar debido a la velocidad a la que se pierde el agua debido a la diarrea. Sin duda recordaréis el brote de Haití u otros más modernos. Para detener el Cólera se suele tratar con especial cuidado los alimentos y el agua, principales focos de infección. El Cólera cuenta con tres grandes pandemias, ocurridas en el siglo XIX y epidemias muy extensas en el siglo XX cuya soma total supera los tres millones de muertos.",
+            "muertos": "3 millones"
         },
         "pandemia_10": {
-            "title": "",
-            "description" : "",
-            "muertos": ""
+            "title": "La gripe de Hong Kong",
+            "description" : "Esta es una pandemia más de gripe, causada muy probablemente por una variación de la Gripe A H3N2. Esta variante, que apareció durante el verano, podría ser una cepa mutante que se propagó en muy poco tiempo por todo el mundo siguiendo las mismas líneas de difusión que la llamada fiebre asiática de 1957. Esta pandemia de gripe se llevó por delante casi a un millón de personas en muy poco tiempo, y es una de las razones por las cuales saltan las alarmas cada vez que se habla de la gripe, o de la gripe aviar.",
+            "muertos": "Casi un millón"
         }
 
     }
