@@ -1,6 +1,6 @@
-<p>
+<h1>
   {{encabezado.title}}
-</p>
+</h1>
 
   <ion-slides pager="true" [options]="slideOpts">
     <ion-slide *ngFor="let enfermedad of enfermedades">
@@ -11,8 +11,8 @@
           <ion-card-title>{{enfermedad.title}}</ion-card-title>
         </ion-card-header>
       
-        <ion-card-content>
-          {{enfermedad.description}}
+        <ion-card-content fullscreen >
+          <p style = 'justify-content: flex-start;'>{{enfermedad.description}}</p>
         </ion-card-content>
       </ion-card>
     </ion-slide>
